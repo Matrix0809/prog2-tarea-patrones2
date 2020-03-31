@@ -1,0 +1,7 @@
+C:\Users\Carlos Miguel\source\repos\FactoryMethod\FactoryMethod\bin\Debug\FactoryMethod.exe.config
+C:\Users\Carlos Miguel\source\repos\FactoryMethod\FactoryMethod\bin\Debug\FactoryMethod.exe
+C:\Users\Carlos Miguel\source\repos\FactoryMethod\FactoryMethod\bin\Debug\FactoryMethod.pdb
+C:\Users\Carlos Miguel\source\repos\FactoryMethod\FactoryMethod\obj\Debug\FactoryMethod.csprojAssemblyReference.cache
+C:\Users\Carlos Miguel\source\repos\FactoryMethod\FactoryMethod\obj\Debug\FactoryMethod.csproj.CoreCompileInputs.cache
+C:\Users\Carlos Miguel\source\repos\FactoryMethod\FactoryMethod\obj\Debug\FactoryMethod.exe
+C:\Users\Carlos Miguel\source\repos\FactoryMethod\FactoryMethod\obj\Debug\FactoryMethod.pdb
